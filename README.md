@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Komarov</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Komarov</h1>
 <h3 align="center">A backend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komar0v&label=Profile%20visits&color=0e75b6&style=flat-square" alt="komar0v" /> </p>
 
-- 👨‍💻 All of my projects (public project only) are available at [https://fdiaz.space/](https://fdiaz.space/)
+- 👨‍💻 All of my projects (public projects only) are available at [https://fdiaz.space/](https://fdiaz.space/)
 
 - 💬 Ask me about **projects, tech stacks**
 
-- 📫 How to reach me **fransiscodiaz81@gmail.com**
+- 📫 You can contact me via **fransiscodiaz81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
