@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fransisco-diaz-atmarestanto-b503a730a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fransisco-diaz-atmarestanto-b503a730a" height="30" width="40" /></a>
 <a href="https://fb.com/fransisco.diaz.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fransisco.diaz.a" height="30" width="40" /></a>
-<a href="https://instagram.com/@fransiscodiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fransiscodiaz" height="30" width="40" /></a>
+<a href="https://instagram.com/fransiscodiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fransiscodiaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
